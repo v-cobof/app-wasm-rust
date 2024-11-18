@@ -1,0 +1,9 @@
+C:\repos_study\estudos\10.pgc\rust\app1\2.receptor\receptor\target\wasm32-wasi\release\deps\libcrossbeam_queue-c6d810bac01cd9ed.rmeta: C:\Users\victor.figueiro_fina\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crossbeam-queue-0.3.11\src\lib.rs C:\Users\victor.figueiro_fina\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crossbeam-queue-0.3.11\src\array_queue.rs C:\Users\victor.figueiro_fina\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crossbeam-queue-0.3.11\src\seg_queue.rs
+
+C:\repos_study\estudos\10.pgc\rust\app1\2.receptor\receptor\target\wasm32-wasi\release\deps\libcrossbeam_queue-c6d810bac01cd9ed.rlib: C:\Users\victor.figueiro_fina\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crossbeam-queue-0.3.11\src\lib.rs C:\Users\victor.figueiro_fina\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crossbeam-queue-0.3.11\src\array_queue.rs C:\Users\victor.figueiro_fina\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crossbeam-queue-0.3.11\src\seg_queue.rs
+
+C:\repos_study\estudos\10.pgc\rust\app1\2.receptor\receptor\target\wasm32-wasi\release\deps\crossbeam_queue-c6d810bac01cd9ed.d: C:\Users\victor.figueiro_fina\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crossbeam-queue-0.3.11\src\lib.rs C:\Users\victor.figueiro_fina\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crossbeam-queue-0.3.11\src\array_queue.rs C:\Users\victor.figueiro_fina\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crossbeam-queue-0.3.11\src\seg_queue.rs
+
+C:\Users\victor.figueiro_fina\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crossbeam-queue-0.3.11\src\lib.rs:
+C:\Users\victor.figueiro_fina\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crossbeam-queue-0.3.11\src\array_queue.rs:
+C:\Users\victor.figueiro_fina\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crossbeam-queue-0.3.11\src\seg_queue.rs:

@@ -1,0 +1,9 @@
+C:\repos_study\estudos\10.pgc\rust\app1\3.ui\ui\target\wasm32-wasi\release\deps\libwasmedge_rustls_api-138f9875bf4636b7.rmeta: C:\Users\victor.figueiro_fina\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wasmedge_rustls_api-0.1.1\src\lib.rs C:\Users\victor.figueiro_fina\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wasmedge_rustls_api-0.1.1\src\ffi.rs C:\Users\victor.figueiro_fina\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wasmedge_rustls_api-0.1.1\src\stream.rs
+
+C:\repos_study\estudos\10.pgc\rust\app1\3.ui\ui\target\wasm32-wasi\release\deps\libwasmedge_rustls_api-138f9875bf4636b7.rlib: C:\Users\victor.figueiro_fina\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wasmedge_rustls_api-0.1.1\src\lib.rs C:\Users\victor.figueiro_fina\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wasmedge_rustls_api-0.1.1\src\ffi.rs C:\Users\victor.figueiro_fina\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wasmedge_rustls_api-0.1.1\src\stream.rs
+
+C:\repos_study\estudos\10.pgc\rust\app1\3.ui\ui\target\wasm32-wasi\release\deps\wasmedge_rustls_api-138f9875bf4636b7.d: C:\Users\victor.figueiro_fina\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wasmedge_rustls_api-0.1.1\src\lib.rs C:\Users\victor.figueiro_fina\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wasmedge_rustls_api-0.1.1\src\ffi.rs C:\Users\victor.figueiro_fina\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wasmedge_rustls_api-0.1.1\src\stream.rs
+
+C:\Users\victor.figueiro_fina\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wasmedge_rustls_api-0.1.1\src\lib.rs:
+C:\Users\victor.figueiro_fina\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wasmedge_rustls_api-0.1.1\src\ffi.rs:
+C:\Users\victor.figueiro_fina\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wasmedge_rustls_api-0.1.1\src\stream.rs:

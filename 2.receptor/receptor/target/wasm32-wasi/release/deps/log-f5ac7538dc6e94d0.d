@@ -1,0 +1,10 @@
+C:\repos_study\estudos\10.pgc\rust\app1\2.receptor\receptor\target\wasm32-wasi\release\deps\liblog-f5ac7538dc6e94d0.rmeta: C:\Users\victor.figueiro_fina\.cargo\registry\src\index.crates.io-6f17d22bba15001f\log-0.4.20\src\lib.rs C:\Users\victor.figueiro_fina\.cargo\registry\src\index.crates.io-6f17d22bba15001f\log-0.4.20\src\macros.rs C:\Users\victor.figueiro_fina\.cargo\registry\src\index.crates.io-6f17d22bba15001f\log-0.4.20\src\serde.rs C:\Users\victor.figueiro_fina\.cargo\registry\src\index.crates.io-6f17d22bba15001f\log-0.4.20\src\__private_api.rs
+
+C:\repos_study\estudos\10.pgc\rust\app1\2.receptor\receptor\target\wasm32-wasi\release\deps\liblog-f5ac7538dc6e94d0.rlib: C:\Users\victor.figueiro_fina\.cargo\registry\src\index.crates.io-6f17d22bba15001f\log-0.4.20\src\lib.rs C:\Users\victor.figueiro_fina\.cargo\registry\src\index.crates.io-6f17d22bba15001f\log-0.4.20\src\macros.rs C:\Users\victor.figueiro_fina\.cargo\registry\src\index.crates.io-6f17d22bba15001f\log-0.4.20\src\serde.rs C:\Users\victor.figueiro_fina\.cargo\registry\src\index.crates.io-6f17d22bba15001f\log-0.4.20\src\__private_api.rs
+
+C:\repos_study\estudos\10.pgc\rust\app1\2.receptor\receptor\target\wasm32-wasi\release\deps\log-f5ac7538dc6e94d0.d: C:\Users\victor.figueiro_fina\.cargo\registry\src\index.crates.io-6f17d22bba15001f\log-0.4.20\src\lib.rs C:\Users\victor.figueiro_fina\.cargo\registry\src\index.crates.io-6f17d22bba15001f\log-0.4.20\src\macros.rs C:\Users\victor.figueiro_fina\.cargo\registry\src\index.crates.io-6f17d22bba15001f\log-0.4.20\src\serde.rs C:\Users\victor.figueiro_fina\.cargo\registry\src\index.crates.io-6f17d22bba15001f\log-0.4.20\src\__private_api.rs
+
+C:\Users\victor.figueiro_fina\.cargo\registry\src\index.crates.io-6f17d22bba15001f\log-0.4.20\src\lib.rs:
+C:\Users\victor.figueiro_fina\.cargo\registry\src\index.crates.io-6f17d22bba15001f\log-0.4.20\src\macros.rs:
+C:\Users\victor.figueiro_fina\.cargo\registry\src\index.crates.io-6f17d22bba15001f\log-0.4.20\src\serde.rs:
+C:\Users\victor.figueiro_fina\.cargo\registry\src\index.crates.io-6f17d22bba15001f\log-0.4.20\src\__private_api.rs:
